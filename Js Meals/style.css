@@ -1,0 +1,41 @@
+body{
+
+    background-color:aqua !important;
+}
+img{
+    border-radius:5px;
+}
+.col-md-3{
+    margin: 30px !important;
+}
+p{
+    font-weight:bolder;
+    font-size:20px;
+
+} 
+#navbar{
+    background-color: black;
+    color:white;
+    ;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left:30px;
+}
+#nav-elements{
+    text-align: center;
+    padding :10px;
+}
+#title{
+    font-size: 30px;
+    
+}
+#footer{
+    background-color: black;
+    color: white;
+    font-size: bolder;
+    text-align: center;
+    padding:10px;
+}
+
